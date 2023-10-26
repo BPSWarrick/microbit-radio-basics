@@ -1,6 +1,10 @@
 
 > Open this page at [https://bpswarrick.github.io/microbit-radio-basics/](https://bpswarrick.github.io/microbit-radio-basics/)
 
+## Tutorial
+To open the tutorial, go to [https://makecode.microbit.org/#tutorial:bpswarrick/microbit-radio-basics/tutorial](https://makecode.microbit.org/#tutorial:bpswarrick/microbit-radio-basics/tutorial)
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
